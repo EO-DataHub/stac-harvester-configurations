@@ -1,6 +1,5 @@
 {
   "url": "https://api.stac.ceda.ac.uk/collections/sentinel2_ard",
   "path": "my-path",
-  "limit": 3,
   "schedule": "0 * * * *"
 }
