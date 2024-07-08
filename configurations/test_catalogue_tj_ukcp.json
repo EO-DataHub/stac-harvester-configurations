@@ -1,0 +1,6 @@
+{
+  "url": "https://api.stac.ceda.ac.uk/collections/ukcp",
+  "catalog": "user-datasets",
+  "path": "ceda-stac-fastapi/ukcp",
+  "schedule": "30 13 * * *"
+}
