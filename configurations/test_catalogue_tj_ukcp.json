@@ -1,0 +1,6 @@
+{
+  "url": "https://api.stac.ceda.ac.uk/collections/sentinel1",
+  "catalog": "user-datasets",
+  "path": "ceda-stac-fastapi/sentinel1",
+  "schedule": "30 14 * * *"
+}
