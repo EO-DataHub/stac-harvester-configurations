@@ -2,5 +2,5 @@
   "url": "https://api.stac.ceda.ac.uk/collections/cordex",
   "catalog": "user-datasets",
   "path": "ceda-stac-fastapi/cordex",
-  "schedule": "33 14 * * *"
+  "schedule": "20 7 * * *"
 }

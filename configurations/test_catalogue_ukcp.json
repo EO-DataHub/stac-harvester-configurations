@@ -2,5 +2,5 @@
   "url": "https://api.stac.ceda.ac.uk/collections/ukcp",
   "catalog": "supported-datasets-test",
   "path": "ceda-stac-fastapi/ukcp",
-  "schedule": "13 13 * * *"
+  "schedule": "20 7 * * *"
 }
