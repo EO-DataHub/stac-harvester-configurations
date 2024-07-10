@@ -1,6 +1,5 @@
 {
   "url": "https://api.stac.ceda.ac.uk/collections/cmip6",
-  "catalog": "supported-datasets-test",
-  "path": "ceda-stac-fastapi/cmip6",
+  "path": "supported-datasets/ceda-stac-fastapi/cmip6",
   "schedule": "20 7 * * *"
 }
