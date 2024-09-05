@@ -1,5 +1,5 @@
 {
   "url": "https://earth-search.aws.element84.com/v1/",
   "path": "supported-datasets/element84",
-  "schedule": "30 * * * *"
+  "schedule": "30 8 * * *"
 }
