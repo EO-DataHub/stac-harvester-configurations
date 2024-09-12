@@ -1,5 +1,5 @@
 {
   "url": "https://api.stac.ceda.ac.uk/collections/cordex",
-  "path": "supported-datasets/element84",
-  "schedule": "10 14 * * *"
+  "path": "supported-datasets/cordex",
+  "schedule": "20 12 * * *"
 }
