@@ -1,5 +1,5 @@
 {
-  "url": "https://api.stac.ceda.ac.uk/collections/land_cover",
-  "path": "supported-datasets/land_cover",
-  "schedule": "/6 * * * *"
+  "url": "https://api.stac.ceda.ac.uk/collections/ukcp",
+  "path": "supported-datasets/ukcp",
+  "schedule": "/4 * * * *"
 }
