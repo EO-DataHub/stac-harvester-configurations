@@ -1,5 +1,5 @@
 {
   "url": "https://api.stac.ceda.ac.uk/collections/ukcp",
   "path": "supported-datasets/ukcp",
-  "schedule": "10 8 * * *"
+  "schedule": "/5 * * * *"
 }
