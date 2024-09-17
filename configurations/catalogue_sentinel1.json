@@ -1,0 +1,5 @@
+{
+  "url": "https://api.stac.ceda.ac.uk/collections/sentinel1",
+  "path": "supported-datasets/sentinel1",
+  "schedule": "35 9 * * *"
+}

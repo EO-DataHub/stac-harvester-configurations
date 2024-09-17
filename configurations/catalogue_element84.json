@@ -1,5 +1,0 @@
-{
-  "url": "https://api.stac.ceda.ac.uk/collections/cordex",
-  "path": "supported-datasets/cordex",
-  "schedule": "20 12 * * *"
-}
