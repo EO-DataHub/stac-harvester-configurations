@@ -1,5 +1,0 @@
-{
-  "url": "https://api.stac.ceda.ac.uk/collections/land_cover",
-  "path": "supported-datasets/land_cover",
-  "schedule": "30 9 * * *"
-}

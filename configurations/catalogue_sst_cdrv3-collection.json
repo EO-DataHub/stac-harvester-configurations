@@ -1,5 +1,0 @@
-{
-  "url": "https://stac.ceda.ac.uk/collections/sst-cdrv3-collection",
-  "path": "supported-datasets/sst-cdrv3-collection",
-  "schedule": "45 9 * * *"
-}
