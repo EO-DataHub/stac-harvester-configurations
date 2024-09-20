@@ -1,5 +1,5 @@
 {
   "url": "https://api.stac.ceda.ac.uk/collections/sentinel2_ard",
   "path": "supported-datasets/hc/sentinel2_ard",
-  "schedule": "15 8 * * *"
+  "schedule": "27 8 * * *"
 }
