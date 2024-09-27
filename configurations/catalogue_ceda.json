@@ -1,5 +1,5 @@
 {
   "url": "https://api.stac.ceda.ac.uk/",
   "path": "supported-datasets",
-  "schedule": "15 10 * * *"
+  "schedule": "35 10 * * *"
 }
