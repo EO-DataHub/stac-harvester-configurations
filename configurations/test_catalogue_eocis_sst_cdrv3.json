@@ -1,5 +1,5 @@
 {
   "url": "https://api.stac.ceda.ac.uk/collections/eocis-sst-cdrv3",
   "path": "supported-datasets/ceda-stac-fastapi/eocis-sst-cdrv3",
-  "schedule": "37 12 * * *"
+  "schedule": "46 12 * * *"
 }
