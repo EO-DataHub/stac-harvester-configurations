@@ -1,5 +1,5 @@
 {
   "url": "https://api.stac.ceda.ac.uk/collections/land_cover",
   "path": "supported-datasets/ceda-stac-fastapi/land_cover",
-  "schedule": "26 7 * * *"
+  "schedule": "37 7 * * *"
 }
