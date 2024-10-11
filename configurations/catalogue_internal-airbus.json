@@ -1,5 +1,0 @@
-{
-  "url": "https://dev.eodatahub.org.uk/api/catalogue/stac/catalogs/supported-datasets/airbus",
-  "path": "supported-datasets/test-airbus",
-  "schedule": "20 11 * * *"
-}
