@@ -1,5 +1,5 @@
 {
   "url": "https://api.stac.ceda.ac.uk/collections/cci",
   "path": "supported-datasets/ceda-stac-fastapi/cci",
-  "schedule": "39 7 * * *"
+  "schedule": "19 15 * * *"
 }
