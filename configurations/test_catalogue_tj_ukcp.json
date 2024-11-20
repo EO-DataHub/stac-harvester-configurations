@@ -1,5 +1,0 @@
-{
-  "url": "https://api.stac.ceda.ac.uk/collections/cordex",
-  "path": "user-datasets/tjellicoe-tpzuk/ceda-stac-fastapi/cordex",
-  "schedule": "20 7 * * *"
-}
