@@ -1,5 +1,5 @@
 {
     "url": "https://api.stac.ceda.ac.uk/collections/cmip6",
     "path": "supported-datasets/ceda-stac-catalogue/cmip6",
-    "schedule": "55 12 * * *"
+    "schedule": "59 12 * * *"
 }
