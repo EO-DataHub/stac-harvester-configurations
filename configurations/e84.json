@@ -1,5 +1,5 @@
 {
-  "url": "https://earth-search.aws.element84.com/v1/collections/cop-dem-glo-30",
-  "path": "supported-datasets/earth-search-aws/cop-dem-glo-30",
-  "schedule": "5 15 * * *"
+  "url": "https://earth-search.aws.element84.com/v1",
+  "path": "supported-datasets/earth-search-aws",
+  "schedule": "12 11 * * *"
 }
