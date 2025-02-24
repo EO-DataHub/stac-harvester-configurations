@@ -1,6 +1,6 @@
 {
   "id": "ceda-harvester",
   "url": "https://api.stac.ceda.ac.uk/",
-  "path": "supported-datasets/ceda-stac-catalogue",
+  "path": "supported-datasets/ceda-stac-catalogue2",
   "schedule": "28 13 * * *"
 }
