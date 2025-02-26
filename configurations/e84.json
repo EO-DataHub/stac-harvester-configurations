@@ -1,6 +1,6 @@
 {
   "id": "element-84",
   "url": "https://earth-search.aws.element84.com/v1",
-  "path": "public/earth-search-aws",
+  "path": "public/element84",
   "schedule": "12 11 * * *"
 }
