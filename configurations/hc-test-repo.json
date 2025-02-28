@@ -2,5 +2,5 @@
   "id": "hc-test-repo",
   "url": "https://github.com/UKEODHP/hc-test-repo",
   "path": "supported-datasets/hc-test-repo",
-  "schedule": "20 17 * * *"
+  "schedule": "26 17 * * *"
 }
