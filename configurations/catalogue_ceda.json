@@ -3,5 +3,5 @@
   "path": "public/ceda-harvester",
   "source": "ceda-harvester",
   "target": "catalogs/public/catalogs/",
-  "schedule": "0 14 * * *"
+  "schedule": "40 14 * * *"
 }
