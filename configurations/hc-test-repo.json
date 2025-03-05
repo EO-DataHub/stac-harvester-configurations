@@ -4,5 +4,5 @@
   "path": "public/hc-test-repo",
   "source": "hc-test-repo",
   "target": "catalogs/public/catalogs/",
-  "schedule": "55 12 * * *"
+  "schedule": "30 13 * * *"
 }
