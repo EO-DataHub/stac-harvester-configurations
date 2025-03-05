@@ -2,5 +2,5 @@
   "id": "ceda-harvester",
   "url": "https://api.stac.ceda.ac.uk/",
   "path": "public/ceda-harvester",
-  "schedule": "25 11 * * *"
+  "schedule": "37 11 * * *"
 }
