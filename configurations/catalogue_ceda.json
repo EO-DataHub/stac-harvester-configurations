@@ -1,7 +1,7 @@
 {
   "url": "https://api.stac.ceda.ac.uk/",
-  "path": "public/ceda-harvester",
-  "source": "ceda-harvester",
-  "target": "catalogs/public/catalogs/",
+  "path": "ceda-harvester/public",
+  "source": "ceda-harvester/public",
+  "target": "catalogs/public/catalogs",
   "schedule": "40 14 * * *"
 }
