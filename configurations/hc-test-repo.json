@@ -1,6 +1,7 @@
 {
-  "id": "hc-test-repo",
   "url": "https://github.com/UKEODHP/hc-test-repo",
-  "path": "supported-datasets/hc-test-repo",
-  "schedule": "37 17 * * *"
+  "path": "public/hc-test-repo",
+  "source": "hc-test-repo",
+  "target": "catalogs/public/catalogs",
+  "schedule": "40 14 * * *"
 }

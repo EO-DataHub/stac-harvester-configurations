@@ -1,6 +1,7 @@
 {
-  "id": "ceda-harvester",
   "url": "https://api.stac.ceda.ac.uk/collections/sentinel1",
   "path": "supported-datasets/ceda-stac-catalogue/sentinel1",
-  "schedule": "10 11 * * *"
+  "source": "ceda-harvester/public",
+  "target": "catalogs/public",
+  "schedule": "10 08 * * *"
 }
