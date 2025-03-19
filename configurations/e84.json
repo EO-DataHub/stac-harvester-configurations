@@ -3,5 +3,5 @@
   "path": "supported-datasets/earth-search-aws",
   "source": "element84-harvester/public",
   "target": "catalogs/public/catalogs",
-  "schedule": "36 18 * * *"
+  "schedule": "17 12 * * *"
 }
