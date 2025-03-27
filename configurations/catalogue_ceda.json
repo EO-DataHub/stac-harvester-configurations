@@ -1,7 +1,7 @@
 {
-    "url": "https://api.stac.ceda.ac.uk/collections/sentinel1_ard",
-    "path": "supported-datasets/ceda-stac-catalogue/sentinel1_ard",
+    "url": "https://api.stac.ceda.ac.uk",
+    "path": "supported-datasets/ceda-stac-catalogue",
     "source": "ceda-harvester/public",
     "target": "catalogs/public",
-    "schedule": "25 11 * * *"
+    "schedule": "40 12 * * *"
 }
