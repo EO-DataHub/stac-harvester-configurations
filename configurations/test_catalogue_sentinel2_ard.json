@@ -3,5 +3,5 @@
   "path": "supported-datasets/ceda-stac-catalogue/sentinel2_ard",
   "source": "ceda-harvester/public",
   "target": "catalogs/public",
-  "schedule": "10 08 * * *"
+  "schedule": "0 4 * * *"
 }
