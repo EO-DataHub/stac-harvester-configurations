@@ -1,0 +1,7 @@
+{
+  "url": "https://earth-search.aws.element84.com/v1/",
+  "path": "supported-datasets/ceda-stac-catalogue/sentinel1_ard",
+  "source": "element84/public",
+  "target": "catalogs/public",
+  "schedule": "15 13 * * *"
+}
