@@ -1,7 +1,0 @@
-{
-  "url": "https://earth-search.aws.element84.com/v1/collections/landsat-c2-l2",
-  "path": "supported-datasets/ceda-stac-catalogue/sentinel1_ard",
-  "source": "element84/public",
-  "target": "catalogs/public",
-  "schedule": "25 12 * * *"
-}
