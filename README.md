@@ -1,6 +1,8 @@
 # stac-harvester-configurations
 
-This repository contains the configurations for harvesting STAC catalogues. Configurations require a URL, a schedule, a source folder and a target folder. Some examples are provided below.
+This repository contains the configurations for harvesting STAC catalogues. Configurations require a URL, 
+a schedule, a source folder and a target folder. Schedules are defined using cron expressions. Some 
+examples are provided below.
 
 
 Example configuration for a STAC catalogue
