@@ -1,11 +1,16 @@
 # stac-harvester-configurations
 
 This repository contains the configurations for harvesting STAC catalogues. Configurations require a URL, 
-a schedule, a source folder and a target folder. Schedules are defined using cron expressions. Some 
-examples are provided below.
+a schedule, a source folder and a target folder. 
+- `url` is the URL of the STAC API or repository
+- `path` is the ingest destination in the EODH catalogue
+- `source` is replaced by `target` where appropriate during transformation of STAC items. These also correspond to the folder names inside the S3 bucket
+- `schedule` is defined using cron expressions 
+
+Some examples are provided below.
 
 
-Example configuration for a STAC catalogue
+## Example configuration for a STAC catalogue
 
 ```json
 {
@@ -17,7 +22,7 @@ Example configuration for a STAC catalogue
 }
 ```
 
-Example configuration for a STAC collection
+## Example configuration for a STAC collection
 
 ```json
 {
@@ -29,7 +34,7 @@ Example configuration for a STAC collection
 }
 ```
 
-Example configuration for Git
+## Example configuration for Git
 
 ```json
 {
