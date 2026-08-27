@@ -1,0 +1,7 @@
+{
+  "url": "https://api.stac.ceda.ac.uk/collections/eocis-soil-moisture-africa",
+  "path": "ceda-harvester/public/catalogs/ceda-stac-catalogue/collections/eocis-soil-moisture-africa",
+  "source": "ceda-harvester/public",
+  "target": "catalogs/public",
+  "schedule": "30 5 * * *"
+}

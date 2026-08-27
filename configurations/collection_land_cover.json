@@ -1,0 +1,7 @@
+{
+  "url": "https://api.stac.ceda.ac.uk/collections/land_cover",
+  "path": "ceda-harvester/public/catalogs/ceda-stac-catalogue/collections/land_cover",
+  "source": "ceda-harvester/public",
+  "target": "catalogs/public",
+  "schedule": "40 5 * * *"
+}

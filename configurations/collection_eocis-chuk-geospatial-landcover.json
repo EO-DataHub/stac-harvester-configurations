@@ -1,0 +1,7 @@
+{
+  "url": "https://api.stac.ceda.ac.uk/collections/eocis-chuk-geospatial-landcover",
+  "path": "ceda-harvester/public/catalogs/ceda-stac-catalogue/collections/eocis-chuk-geospatial-landcover",
+  "source": "ceda-harvester/public",
+  "target": "catalogs/public",
+  "schedule": "50 4 * * *"
+}

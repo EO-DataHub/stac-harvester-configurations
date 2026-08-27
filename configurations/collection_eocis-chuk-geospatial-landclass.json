@@ -3,5 +3,5 @@
   "path": "ceda-harvester/public/catalogs/ceda-stac-catalogue/collections/eocis-chuk-geospatial-landclass",
   "source": "ceda-harvester/public",
   "target": "catalogs/public",
-  "schedule": "0 4 * * *"
+  "schedule": "45 4 * * *"
 }
