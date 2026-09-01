@@ -1,0 +1,7 @@
+{
+  "url": "https://api.stac.ceda.ac.uk/collections/eocis-lst-s3b-day",
+  "path": "ceda-harvester/public/catalogs/ceda-stac-catalogue/collections/eocis-lst-s3b-day",
+  "source": "ceda-harvester/public",
+  "target": "catalogs/public",
+  "schedule": "20 5 * * *"
+}

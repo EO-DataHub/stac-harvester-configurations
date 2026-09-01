@@ -1,0 +1,7 @@
+{
+  "url": "https://api.stac.ceda.ac.uk/collections/sentinel2_ard",
+  "path": "ceda-harvester/public/catalogs/ceda-stac-catalogue/collections/sentinel2_ard",
+  "source": "ceda-harvester/public",
+  "target": "catalogs/public",
+  "schedule": "55 5 * * *"
+}

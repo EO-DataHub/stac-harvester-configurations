@@ -1,0 +1,7 @@
+{
+  "url": "https://api.stac.ceda.ac.uk/collections/eocis-lst-s3b-night",
+  "path": "ceda-harvester/public/catalogs/ceda-stac-catalogue/collections/eocis-lst-s3b-night",
+  "source": "ceda-harvester/public",
+  "target": "catalogs/public",
+  "schedule": "25 5 * * *"
+}

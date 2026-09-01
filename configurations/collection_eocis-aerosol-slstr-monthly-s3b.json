@@ -1,0 +1,7 @@
+{
+  "url": "https://api.stac.ceda.ac.uk/collections/eocis-aerosol-slstr-monthly-s3b",
+  "path": "ceda-harvester/public/catalogs/ceda-stac-catalogue/collections/eocis-aerosol-slstr-monthly-s3b",
+  "source": "ceda-harvester/public",
+  "target": "catalogs/public",
+  "schedule": "25 4 * * *"
+}
