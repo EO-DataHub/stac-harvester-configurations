@@ -1,0 +1,7 @@
+{
+  "url": "https://api.stac.ceda.ac.uk/collections/clms-lcm-global-10m-yearly-v1-cog",
+  "path": "ceda-harvester/public/catalogs/ceda-stac-catalogue/collections/clms-lcm-global-10m-yearly-v1-cog",
+  "source": "ceda-harvester/public",
+  "target": "catalogs/public",
+  "schedule": "0 4 * * *"
+}

@@ -1,0 +1,7 @@
+{
+  "url": "https://api.stac.ceda.ac.uk/collections/eocis-chuk-land-vegetation-lai",
+  "path": "ceda-harvester/public/catalogs/ceda-stac-catalogue/collections/eocis-chuk-land-vegetation-lai",
+  "source": "ceda-harvester/public",
+  "target": "catalogs/public",
+  "schedule": "0 5 * * *"
+}

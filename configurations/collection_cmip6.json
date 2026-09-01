@@ -1,0 +1,7 @@
+{
+  "url": "https://api.stac.ceda.ac.uk/collections/cmip6",
+  "path": "ceda-harvester/public/catalogs/ceda-stac-catalogue/collections/cmip6",
+  "source": "ceda-harvester/public",
+  "target": "catalogs/public",
+  "schedule": "5 4 * * *"
+}

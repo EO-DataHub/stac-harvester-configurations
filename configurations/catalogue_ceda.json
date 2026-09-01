@@ -1,7 +1,0 @@
-{
-    "url": "https://api.stac.ceda.ac.uk",
-    "path": "supported-datasets/ceda-stac-catalogue",
-    "source": "ceda-harvester/public",
-    "target": "catalogs/public",
-    "schedule": "0 2 * * *"
-}

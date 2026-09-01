@@ -1,0 +1,7 @@
+{
+  "url": "https://api.stac.ceda.ac.uk/collections/eocis-chuk-geospatial-elevation",
+  "path": "ceda-harvester/public/catalogs/ceda-stac-catalogue/collections/eocis-chuk-geospatial-elevation",
+  "source": "ceda-harvester/public",
+  "target": "catalogs/public",
+  "schedule": "40 4 * * *"
+}
