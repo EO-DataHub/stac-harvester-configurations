@@ -5,3 +5,4 @@
   "target": "catalogs/public",
   "schedule": "10 5 * * *"
 }
+
